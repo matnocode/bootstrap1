@@ -1,0 +1,90 @@
+h2
+{
+    color: white;
+    text-align: center;
+
+    
+}
+ .blue, .red, .yellow, .purple
+ {              
+    height: 100px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+.green
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(25, 167, 84);
+    height: 250px;
+}
+.blue
+{
+    background-color: rgb(58, 58, 250);
+
+}
+.red
+{
+    background-color: rgb(202, 39, 39);
+}
+.yellow
+{
+    background-color: orange;
+}
+.purple
+{
+    background-color: purple;
+}
+.md
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: rgb(241, 179, 8);
+    text-align: center;
+    height: 60px;
+    width: 100px;
+}
+.sm
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: rgb(241, 179, 8);
+    text-align: center;
+    height: 60px;
+    width: 60px;
+}
+.xs
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: rgb(241, 179, 8);
+    text-align: center;
+    height: 60px;
+    width: 30px;
+}
+.footer *
+{
+    margin-right: 10px;
+    
+}
+i
+{
+    color:rgb(9, 151, 151);
+    font-size: 3rem;
+
+}
+ .end
+{
+    width:100%;
+    display: flex;
+    justify-content: end;
+}
